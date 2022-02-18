@@ -1,0 +1,11 @@
+C:\Users\dalli\source\repos\tarea\bin\Debug\tarea.exe.config
+C:\Users\dalli\source\repos\tarea\bin\Debug\tarea.exe
+C:\Users\dalli\source\repos\tarea\bin\Debug\tarea.pdb
+C:\Users\dalli\source\repos\tarea\obj\Debug\tarea.csproj.AssemblyReference.cache
+C:\Users\dalli\source\repos\tarea\obj\Debug\tarea.csproj.SuggestedBindingRedirects.cache
+C:\Users\dalli\source\repos\tarea\obj\Debug\tarea.Form1.resources
+C:\Users\dalli\source\repos\tarea\obj\Debug\tarea.Properties.Resources.resources
+C:\Users\dalli\source\repos\tarea\obj\Debug\tarea.csproj.GenerateResource.cache
+C:\Users\dalli\source\repos\tarea\obj\Debug\tarea.csproj.CoreCompileInputs.cache
+C:\Users\dalli\source\repos\tarea\obj\Debug\tarea.exe
+C:\Users\dalli\source\repos\tarea\obj\Debug\tarea.pdb
